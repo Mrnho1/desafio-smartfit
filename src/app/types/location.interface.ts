@@ -7,7 +7,7 @@ export interface Location{
     towel: string,
     foutain: string,
     locker_room: string,
-    schedules: Schedule[]
+    schedules: Schedule[],
 }
 
 interface Schedule{
